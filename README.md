@@ -29,10 +29,6 @@ Thank you.
    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp;<br><br>
 </p>
 
-## Contact
-- **Email** : [jjw6551@naver.com](mailto:jjw6551@naver.com)
-- **Blog** : [https://blog.naver.com/da-won-](https://blog.naver.com/da-won-) ➡️ Documenting the domain knowledge studied.
-
 ## Projects
 - **Project Name**: Short description of what this project does.  
   Tech: Python, Flask, MySQL  
