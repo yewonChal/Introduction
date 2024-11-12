@@ -30,7 +30,7 @@ Thank you.
 </p>
 
 ## Contact
-- **Email** : [jjw6551@naver.com](mailto:jjw6551@naver.com), [jeony3983@gmail.com](mailto:jeony3983@gmail.com)
+- **Email** : [jjw6551@naver.com](mailto:jjw6551@naver.com)
 - **Blog** : [https://blog.naver.com/da-won-](https://blog.naver.com/da-won-) ➡️ Documenting the domain knowledge studied.
 
 ## Projects
